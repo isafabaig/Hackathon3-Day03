@@ -5,7 +5,7 @@ import { LuArrowDownUp } from "react-icons/lu";
 
 
 
-export default function pickdrop(){
+export default function Pickdrop(){
     return(
         <div className="flex flex-col items-center gap-5 md:flex-row">
           {/* Pick-Up Section */}
