@@ -3,7 +3,6 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from "next/link";
-import pickdrop from '@/components/Pickdrop';
 import Pickdrop from '@/components/Pickdrop';
 import {
   Card,
