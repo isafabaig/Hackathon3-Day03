@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Pickdrop from "./Pickdrop";
+import Pickdrop from "@/components/Pickdrop";
 
 export default function Hero() {
   return (

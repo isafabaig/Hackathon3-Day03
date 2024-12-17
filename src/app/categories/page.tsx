@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from "next/link";
 import pickdrop from '@/components/Pickdrop';
+import Pickdrop from '@/components/Pickdrop';
 import {
   Card,
   CardContent,
@@ -12,7 +13,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import Pickdrop from '@/components/Pickdrop';
+
 
 export default function Page() {
   const [showMore, setShowMore] = useState(false);
@@ -57,7 +58,7 @@ export default function Page() {
                   <p>
                     $99.00/<span className="text-gray-500">day</span>
                   </p>
-                  <Link href={'/details'}>
+                  <Link href={'/detail'}>
                   <button className="bg-[#3563e9] p-2 text-white rounded-md">Rent Now</button></Link>
                 </CardFooter>
               </Card>

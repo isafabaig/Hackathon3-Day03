@@ -53,8 +53,8 @@ export default function page() {
 </div>
         </section>
         <section className=' w-full flex items-center justify-center'>
-            <Image src={'/Reviews.png'} alt='' width={1010} height={452} className=' hidden md:flex'/>
-            <Image src={'/Reviews (1).png'} alt='' width={492} height={384} className=' md:hidden'/>
+            <Image src={'/image/Reviews.png'} alt='' width={1010} height={452} className=' hidden md:flex'/>
+            <Image src={'/image/Reviews (1).png'} alt='' width={492} height={384} className=' md:hidden'/>
         </section>
         <section className="popular w-full flex flex-col gap-5">
         <div className="first w-full flex items-center justify-between px-10 xl:px-14">
@@ -75,8 +75,8 @@ export default function page() {
               <CardDescription>Sport</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/car.png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/image/car.png"} alt="" width={220} height={68} />
+              <Image src={"/image/Spesification.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -95,8 +95,8 @@ export default function page() {
               <CardDescription>Sport</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/car (1).png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/image/car (1).png"} alt="" width={220} height={68} />
+              <Image src={"/image/Spesification.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -115,8 +115,8 @@ export default function page() {
               <CardDescription>Sedan</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv.png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/image/suv.png"} alt="" width={220} height={68} />
+              <Image src={"/image/Spesification.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -146,8 +146,8 @@ export default function page() {
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv.png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/image/suv.png"} alt="" width={220} height={68} />
+              <Image src={"/image/Spesification.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -166,8 +166,8 @@ export default function page() {
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv.png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/image/suv.png"} alt="" width={220} height={68} />
+              <Image src={"/image/Spesification.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>
@@ -186,8 +186,8 @@ export default function page() {
               <CardDescription>SUV</CardDescription>
             </CardHeader>
             <CardContent className="w-full flex flex-col items-center justify-center gap-4">
-              <Image src={"/suv (4).png"} alt="" width={220} height={68} />
-              <Image src={"/Spesification.png"} alt="" width={256} height={24} />
+              <Image src={"/image/suv (4).png"} alt="" width={220} height={68} />
+              <Image src={"/image/Spesification.png"} alt="" width={256} height={24} />
             </CardContent>
             <CardFooter className="w-full flex items-center justify-between">
               <p>

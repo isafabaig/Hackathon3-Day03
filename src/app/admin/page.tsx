@@ -15,14 +15,24 @@ export default function Page() {
           height={836}
           className="ml-1 w-full md:w-[45%] lg:w-[534px]"
         />
+              <div>
         <Image
-          src={"/image/Details Rental.png"}
+          src={"/image/Top 5 Car Rental (1).png"}
           alt="Details Rental"
-          width={534}
-          height={836}
+          width={250}
+          height={408}
           className="w-full md:w-[45%] lg:w-[534px]"
         />
       </div>
+      <Image
+          src={"/image/Recent Transaction.png"}
+          alt="Details Rental"
+          width={250}
+          height={408}
+          className="w-full md:w-[45%] lg:w-[400px]"
+        />
+      </div>
+
       <div className="small-screens md:hidden bg-[#f6f7f9] p-4 sm:p-6 flex flex-col gap-6">
         <Image
           src={"/image/Detail Rental.png"}
